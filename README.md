@@ -1,10 +1,8 @@
 # computational_physics
 
-Coursera: Statistical Mechanics: Algorithms and Computations (École normale supérieure)
+Coursera: Statistical Mechanics: Algorithms and Computations by Werner Krauth (École normale supérieure)
 
 https://www.coursera.org/learn/statistical-mechanics/
-
-About this course: In this course you will learn a whole lot of modern physics (classical and quantum) from basic computer programs that you will download, generalize, or write from scratch, discuss, and then hand in. Join in if you are curious (but not necessarily knowledgeable) about algorithms, and about the deep insights into science that you can obtain by the algorithmic approach.
 
 - Monte Carlo algorithms (Direct sampling, Markov-chain sampling)
 - Hard disks: From Classical Mechanics to Statistical Mechanics
